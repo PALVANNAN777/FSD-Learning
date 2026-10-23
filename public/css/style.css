@@ -1,0 +1,17 @@
+body { background-color: #1e1e1e;  
+    margin: 0; 
+    padding: 20px; 
+}
+.container.card { 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+    max-width: 600px; 
+    margin: 20px auto; 
+    color: white;
+    background-color: black;
+}
+img 
+{
+     width: 560px; 
+}
